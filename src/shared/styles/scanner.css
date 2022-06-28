@@ -1,0 +1,7 @@
+.scan-region-highlight-svg {
+  stroke: #2e75ff !important;
+  outline: rgba(0, 0, 0, 0.15) solid 50vmax;
+}
+.code-outline-highlight {
+  stroke: #2e75ff !important;
+}

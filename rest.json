@@ -1,0 +1,191 @@
+[
+  {
+    "actionName": "v1.calendar.get",
+    "path": "calendar/:id",
+    "fullPath": "/med/calendar/:id",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.calendar.update",
+    "path": "calendar/:id",
+    "fullPath": "/med/calendar/:id",
+    "methods": "PUT",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.calendar.patch",
+    "path": "calendar/:id",
+    "fullPath": "/med/calendar/:id",
+    "methods": "PATCH",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.calendar.remove",
+    "path": "calendar/:id",
+    "fullPath": "/med/calendar/:id",
+    "methods": "DELETE",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.recept.get",
+    "path": "recept/:id",
+    "fullPath": "/med/recept/:id",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.recept.update",
+    "path": "recept/:id",
+    "fullPath": "/med/recept/:id",
+    "methods": "PUT",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.recept.patch",
+    "path": "recept/:id",
+    "fullPath": "/med/recept/:id",
+    "methods": "PATCH",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.recept.remove",
+    "path": "recept/:id",
+    "fullPath": "/med/recept/:id",
+    "methods": "DELETE",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.get",
+    "path": "users/:id",
+    "fullPath": "/med/users/:id",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.update",
+    "path": "users/:id",
+    "fullPath": "/med/users/:id",
+    "methods": "PUT",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.patch",
+    "path": "users/:id",
+    "fullPath": "/med/users/:id",
+    "methods": "PATCH",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.remove",
+    "path": "users/:id",
+    "fullPath": "/med/users/:id",
+    "methods": "DELETE",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "$node.actions",
+    "path": "actions",
+    "fullPath": "/med/system/actions",
+    "methods": "GET",
+    "routePath": "/med/system"
+  },
+  {
+    "actionName": "v1.calendar.list",
+    "path": "calendar",
+    "fullPath": "/med/calendar",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.calendar.create",
+    "path": "calendar",
+    "fullPath": "/med/calendar",
+    "methods": "POST",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "$node.health",
+    "path": "health",
+    "fullPath": "/med/system/health",
+    "methods": "GET",
+    "routePath": "/med/system"
+  },
+  {
+    "actionName": "$node.list",
+    "path": "list",
+    "fullPath": "/med/system/list",
+    "methods": "GET",
+    "routePath": "/med/system"
+  },
+  {
+    "actionName": "v1.users.auth.login",
+    "path": "login",
+    "fullPath": "/med/auth/login",
+    "methods": "POST",
+    "routePath": "/med/auth"
+  },
+  {
+    "actionName": "v1.users.auth.logout",
+    "path": "logout",
+    "fullPath": "/med/auth/logout",
+    "methods": "POST",
+    "routePath": "/med/auth"
+  },
+  {
+    "actionName": "v1.recept.list",
+    "path": "recept",
+    "fullPath": "/med/recept",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.recept.create",
+    "path": "recept",
+    "fullPath": "/med/recept",
+    "methods": "POST",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.auth.refreshToken",
+    "path": "refresh",
+    "fullPath": "/med/auth/refresh",
+    "methods": "POST",
+    "routePath": "/med/auth"
+  },
+  {
+    "actionName": "v1.api.listAliases",
+    "path": "rest",
+    "fullPath": "/med/system/rest",
+    "methods": "GET",
+    "routePath": "/med/system"
+  },
+  {
+    "actionName": "$node.services",
+    "path": "services",
+    "fullPath": "/med/system/services",
+    "methods": "GET",
+    "routePath": "/med/system"
+  },
+  {
+    "actionName": "v1.users.list",
+    "path": "users",
+    "fullPath": "/med/users",
+    "methods": "GET",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.create",
+    "path": "users",
+    "fullPath": "/med/users",
+    "methods": "POST",
+    "routePath": "/med"
+  },
+  {
+    "actionName": "v1.users.jwt.verify",
+    "path": "verify",
+    "fullPath": "/med/auth/verify",
+    "methods": "POST",
+    "routePath": "/med/auth"
+  }
+]
